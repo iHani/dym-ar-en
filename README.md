@@ -23,6 +23,8 @@ yarn add dym-ar-en
 
 
 ```javascript
+import { correctKeyboardInput } from 'dym-ar-en';
+
 const result = correctKeyboardInput('hgsbl ugd;l');
 
 console.log(result);
