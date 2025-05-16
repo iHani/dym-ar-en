@@ -24,8 +24,8 @@
     "english",
     "layout",
     "bilingual",
-    "text",
-    "input"
+    "qwerty",
+    "did-you-mean"
   ],
   "author": "Hani Yahya <hani@fast.link>",
   "publishConfig": {

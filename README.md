@@ -4,6 +4,8 @@ Corrects "hgsbl ugd;l" to "السلام عليكم" and "اثممخ صخقمي" 
 
 A keyboard layout correction library for Arabic/English text. It detects and corrects text typed with the wrong keyboard layout (QWERTY).
 
+Demo [https://v0-dym-demo.vercel.app/](https://v0-dym-demo.vercel.app/)
+
 ## Features
 
 - Detects when text is typed with the wrong keyboard layout
